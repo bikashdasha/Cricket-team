@@ -1,6 +1,9 @@
 # My Project
 
 Description...
+## Technologies
+HTML, CSS, JavaScript
+
 
 ## Tech Stack
 - HTML
