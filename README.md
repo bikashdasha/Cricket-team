@@ -1,2 +1,1 @@
-# Cricket-team
-![Html]
+**Technologies:** HTML, CSS, JS
