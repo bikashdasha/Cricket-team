@@ -1,1 +1,5 @@
-**Technologies:** HTML, CSS, JS
+# My Project
+
+Description...
+
+**Technologies:** HTML, CSS, JS, React
