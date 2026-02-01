@@ -3,5 +3,9 @@
 Description...
 
 ## Tech Stack
-HTML, CSS, JavaScript, Frontend
+- HTML
+- CSS
+- JavaScript
+- Frontend
+
 
