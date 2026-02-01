@@ -2,4 +2,6 @@
 
 Description...
 
-**Technologies:** HTML, CSS, JS, React
+## Tech Stack
+HTML, CSS, JavaScript, Frontend
+
