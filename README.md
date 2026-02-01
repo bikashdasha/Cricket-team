@@ -5,10 +5,11 @@ Description...
 HTML, CSS, JavaScript
 
 
-## Tech Stack
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
-- Frontend
+- Bootstrap
+
 
 
